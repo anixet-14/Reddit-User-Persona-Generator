@@ -1,0 +1,85 @@
+
+========================================
+USER PERSONA: kojied
+========================================
+
+Generated on: 2025-07-14 02:37:09
+Account created: 2020-01-03
+Link karma: 216
+Comment karma: 1821
+Posts analyzed: 5
+Comments analyzed: 10
+
+========================================
+DEMOGRAPHICS
+========================================
+Age: Teen (13-19) (based on language patterns)
+Location: NYC (inferred from activity patterns)
+Occupation: Finance (based on content analysis)
+Education: College-educated (inferred from communication style)
+Archetype: Long-term Reddit user
+
+========================================
+BEHAVIORS & HABITS
+========================================
+• Engages across diverse communities and topics
+  Citations:
+    - Post: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      "I feel violated by intern season"
+    - Post: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+
+• Shows strong interest in technology
+  Citations:
+    - Post: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      "I feel violated by intern season"
+    - Post: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+
+• Shows strong interest in music
+  Citations:
+    - Post: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      "I feel violated by intern season"
+    - Post: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+
+• Shows strong interest in gaming
+  Citations:
+    - Post: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      "I feel violated by intern season"
+    - Post: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+
+========================================
+MOTIVATIONS
+========================================
+• Seeks community support and advice for problem-solving
+  Citations:
+    - Post: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      "I feel violated by intern season"
+    - Post: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+
+========================================
+PERSONALITY
+========================================
+• Detailed Communicator: Tends to provide comprehensive explanations and detailed responses
+  Citations:
+    - Post: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+      "I feel violated by intern season"
+    - Post: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+      "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+
+========================================
+FRUSTRATIONS
+========================================
+• Experiences challenges in social or professional interactions
+  Citations:
+    - Comment: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+      "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your ber..."
+    - Comment: https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
+      "Yeah but it doesn’t seem to affect much though"
+
+========================================
+GOALS & NEEDS
+========================================
