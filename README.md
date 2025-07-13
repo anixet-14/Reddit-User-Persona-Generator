@@ -223,7 +223,6 @@ reddit-persona-generator/
 ├── persona_generator.py   # Pattern-based persona analysis
 ├── utils.py               # Utility functions
 ├── README.md              # This file
-├── requirements.txt       # Python dependencies
 └── personas/             # Generated persona files
 ```
 
