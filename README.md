@@ -55,8 +55,8 @@ Reddit User Persona Generator is a powerful Python application that analyzes Red
 
 1. **Clone or Download the Project**
    ```bash
-   git clone <repository-url>
-   cd reddit-persona-generator
+   git clone https://github.com/anixet-14/Reddit-User-Persona-Generator.git
+   cd Reddit-User-Persona-Generator
    ```
 
 2. **Install Dependencies**
